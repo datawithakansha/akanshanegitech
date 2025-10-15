@@ -2,12 +2,16 @@
 <h3 align="center">Data Analyst in progress exploring the world of data and AI.</h3>
 
 Welcome to my GitHub! 
+
 I’m passionate about turning **data into meaningful insights** and helping businesses make **data-driven decisions**. I love working on real-world datasets — from **finance and sales analytics** to **HR and marketing dashboards** and **many more**.
 
 🧠 About Me
+
 🎓 Aspiring **Data Analyst** currently learning **SQL, Power BI, Excel, Python including AI** - 💼 Completed projects in **Finance Expense Analysis**, **Sales Dashboard**, and **HR Analytics** - 💡 I enjoy exploring **data visualization**, **business insights**, and **process optimization** - 🚀 Goal: To build a career in **data analytics and business intelligence****
 
-🧰 Tools & Technologies ****Languages & Tools:** 📘 Excel (Advanced Formulas, Pivot Tables, Dashboards) 🧮 SQL (Joins, CTEs, Window Functions) 📊 Power BI (Interactive Reports, DAX, KPIs) 🐍 Python (Pandas, NumPy, Matplotlib) 🧠 Statistics & Data Cleaning**
+🧰 Tools & Technologies
+
+****Languages & Tools:** 📘 Excel (Advanced Formulas, Pivot Tables, Dashboards) 🧮 SQL (Joins, CTEs, Window Functions) 📊 Power BI (Interactive Reports, DAX, KPIs) 🐍 Python (Pandas, NumPy, Matplotlib) 🧠 Statistics & Data Cleaning**
 
 - 📫 How to reach me **akanshanegi171@gmail.com**
 
